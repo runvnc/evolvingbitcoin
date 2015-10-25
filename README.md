@@ -6,21 +6,20 @@ technologies, we have the old information technology integration problems to sol
 
 ## Beyond BIPs or RFCs
 
+The fundamental limitations of something like a text document in a BIP or an RFC are fairly well-known, but they
+all stem from the poor integration between the human and technical aspects of the change process.  The main bottlenecks, of course, are the humans and in particular the low-tech ways decisions are made, recorded, transmitted, and implemented.  This is not to say that the BIP process has not been exemplary in terms of a human-oriented traditional non-technological social process.  It has been excellent in that sense.
+
 There is a long history and broad range of technologies for shallow or deep information 
 systems integration, from CORBA to Java to REST.  Ethereum smart contracts shows one example of deep integration
 based on the blockchain concept.
 
 What we really need (still) is a common technology that really facilitates automated deep integration between systems.
 
-The fundamental limitations of something like a text document in a BIP or an RFC are fairly well-known, but they
-all stem from the poor integration between the human and technical aspects of the decision structures and
-protocols/systems they control. 
-
 In contrast, take for example a leading-edge open software module registry and ecosystem like `npm`.  This system
 provides semantic versioning to manage dependencies and offers the fundamental advantage of nearly instant
 integration between pieces of software.  So one could compare the effort involved with upgrading a popular
 module in a Node.js application versus ratifying a BIP by committee and implementing new protocol features from 
-scratch.
+scratch in every client.
 
 ## Web Assembly
 
