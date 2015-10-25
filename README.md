@@ -1,6 +1,9 @@
+# Evolving Bitcoin with Web Assembly.
+
 ## Bitcoin as a High-Tech Tool for Social Organization
 
-Bitcoin shows that social organization is becoming an information technology.  In order to evolve bitcoin
+Bitcoin is a decentralized protocol that supplants traditional social institutions (banks) as a regulator
+between individuals in society.  This shows that social organization is becoming an information technology.  In order to evolve bitcoin
 and technologies like it, and at the same time improve society to the degree that aspects are now structured by these
 technologies, we have the old information technology integration problems to solve.
 
