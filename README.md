@@ -1,4 +1,4 @@
-# Evolving Bitcoin with Web Assembly.
+# Evolving Bitcoin with Web Assembly
 
 ## Bitcoin as a High-Tech Tool for Social Organization
 
