@@ -27,7 +27,7 @@ scratch.
 Web assembly has the potential to finally become a ubiquitous way to share code across platforms and programming 
 languages.  The ideal would be for there to be a web assembly module registry, which would allow open source 
 publishing of semantically versioned modules written in one of many languages on several platforms.  Then core blockchain
-protocols could be implemented and published to this module, and consumed by application developers on any platform
+protocols could be implemented and published to this module registry, and consumed by application developers on any platform
 or programming language.  This is not a new ideal, since these issues are as old as information technology.
 The popularity and widespread deployment of existing web technologies like JavaScript makes one hopeful about
 the adoption potential of web assembly.
