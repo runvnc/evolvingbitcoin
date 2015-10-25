@@ -15,7 +15,7 @@ based on the blockchain concept.
 
 What we really need (still) is a common technology that really facilitates automated deep integration between systems.
 
-In contrast, take for example a leading-edge open software module registry and ecosystem like `npm`.  This system
+Take for example a leading-edge open software module registry and ecosystem like `npm`.  This system
 provides semantic versioning to manage dependencies and offers the fundamental advantage of nearly instant
 integration between pieces of software.  So one could compare the effort involved with upgrading a popular
 module in a Node.js application versus ratifying a BIP by committee and implementing new protocol features from 
